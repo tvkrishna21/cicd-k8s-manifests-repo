@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: flask
-        image: tvkrishna21/flask-jenkins-argocd-k8s:37
+        image: tvkrishna21/flask-jenkins-argocd-k8s:38
         ports:
         - containerPort: 5000
